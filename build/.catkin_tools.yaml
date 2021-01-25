@@ -1,0 +1,6 @@
+devel_space: /home/dev/hrwros_ws/devel
+install: false
+install_space: /home/dev/hrwros_ws/install
+profile: default
+source_space: /home/dev/hrwros_ws/src
+workspace: /home/dev/hrwros_ws
