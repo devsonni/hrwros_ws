@@ -1,9 +1,9 @@
 # Factory automation by using ROS(Robot Operating System)🤖        
-👉 This project is mainly divided into 3-4 chunks.       
- 🤝 Pub-Sub mechanism of ROS.     
- 🧭 Navigation package of ROS.     
- 🎛️ Manipulation by Moveit ROS package.     
- 🙌 Final factory Automation using all these chunks.     
+##  👉 This project is mainly divided into 3-4 chunks.       
+ ------🤝 Pub-Sub mechanism of ROS.     
+ ------🧭 Navigation package of ROS.     
+ ------🎛️ Manipulation by Moveit ROS package.     
+ ------🙌 Final factory Automation using all these chunks.     
 
 
 
