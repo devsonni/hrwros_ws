@@ -11,8 +11,8 @@
 <img align="midle" height="300" width="500" src="https://github.com/devsonni/hrwros_ws/blob/main/gif/Pub_Sub%20(1).gif">      
 
 ### 🧭 Navigation package of ROS.              
-<!--img height="40" width="40" src="https://github.com/devsonni/hrwros_ws/blob/main/gif/Pub_Sub%20(1).gif"-->
-<img align="midle" height="300" width="500" src="https://github.com/devsonni/hrwros_ws/blob/main/gif/Pub_Sub%20(1).gif">            
+<!--img height="40" width="40" src="https://github.com/devsonni/hrwros_ws/blob/main/gif/Navigation.gif"-->
+<img align="midle" height="300" width="500" src="https://github.com/devsonni/hrwros_ws/blob/main/gif/Navigation.gif">            
 
 ### 🎛️ Manipulation by Moveit ROS package.                  
 <!--img height="40" width="40" src="https://github.com/devsonni/hrwros_ws/blob/main/gif/Pub_Sub%20(1).gif"-->
