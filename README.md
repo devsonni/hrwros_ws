@@ -23,4 +23,5 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Wp_6LamoRL0" target="_blank"><img src="http://img.youtube.com/vi/Wp_6LamoRL0/0.jpg" alt="Wp_6LamoRL0" width="450" height="300" border="5" /></a>       
 
-## 🔍 [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system)
+### 🔍 One can find course details here.     
+[Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system)
